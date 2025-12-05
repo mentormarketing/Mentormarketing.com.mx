@@ -78,7 +78,6 @@ nav a:hover {
     font-size: 3rem;
     margin-bottom: 1rem;
     font-weight: 700;
-    animation: slideInDown 0.8s ease;
 }
 
 .tagline {
@@ -107,4 +106,4 @@ nav a:hover {
     font-weight: bold;
     font-size: 1rem;
     transition: all 0.3s ease;
-    box-shadow: 0 5px 15px rgba(212, 175, 55,
+    box-shadow: 0
